@@ -1,0 +1,18 @@
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\bin\Debug\files\pop_sound.mp3
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\bin\Debug\Ballon Pop Game.exe.config
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\bin\Debug\Ballon Pop Game.exe
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\bin\Debug\Ballon Pop Game.pdb
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.csproj.AssemblyReference.cache
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\MainWindow.g.cs
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\App.g.cs
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game_Content.g.cs
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game_MarkupCompile.cache
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game_MarkupCompile.lref
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\MainWindow.baml
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.g.resources
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon_Pop_Game.Properties.Resources.resources
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.csproj.GenerateResource.cache
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.csproj.CoreCompileInputs.cache
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.exe
+C:\Users\VMOON\source\repos\Ballon Pop Game\Ballon Pop Game\obj\Debug\Ballon Pop Game.pdb
